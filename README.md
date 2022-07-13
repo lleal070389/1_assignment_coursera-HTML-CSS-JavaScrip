@@ -1,1 +1,1 @@
-# coursera-HTML-CSS-JavaScrip
+# 1_assignment_coursera-HTML-CSS-JavaScrip
