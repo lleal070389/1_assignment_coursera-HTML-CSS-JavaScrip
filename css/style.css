@@ -22,20 +22,19 @@ body {
 .item{
   position: relative;
   top: 10;
-  background-color: #4187e4;
+  background-color: Silver;
   margin: 15px;
   padding: 25px;
-  border: 3px solid #fff;
+  border: 3px solid black;
 }
 
 .item-title{
   position: absolute;
-  top:0;
+  top: 10;
   right: 0px;
-  background: green; 
   padding: 6px 90px;
-  border-left: 2px solid #fff;;
-  border-bottom: 2px solid #fff;;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .item p{
