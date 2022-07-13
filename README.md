@@ -1,4 +1,4 @@
-# coursera-HTML-CSS-JavaScrip
+# 1_assignment_coursera-HTML-CSS-JavaScrip
 
 Módulo 2 Asignación de codificación
 
