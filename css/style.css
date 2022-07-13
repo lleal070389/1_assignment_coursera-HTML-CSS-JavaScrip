@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    background: #fafafa;
+    background: silver;
     line-height: 15px;
 }
 
@@ -22,7 +22,7 @@ body {
 .item{
   position: relative;
   top: 10;
-  background-color: Silver;
+  background-color: silver;
   margin: 15px;
   padding: 25px;
   border: 3px solid black;
