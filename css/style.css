@@ -21,7 +21,7 @@ body {
 
 .item{
   position: relative;
-  top: 40;
+  top: 0;
   background-color: silver;
   margin: 15px;
   padding: 25px;
@@ -38,7 +38,7 @@ body {
 }
 
 .item p{
-  margin-top: 30px;
+  margin-top: 40px;
   text-align: justify;
   font-size:100%;
 }
