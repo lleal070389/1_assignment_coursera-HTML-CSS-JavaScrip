@@ -21,7 +21,7 @@ body {
 
 .item{
   position: relative;
-  top: 0;
+  top: 10;
   background-color: #4187e4;
   margin: 15px;
   padding: 25px;
